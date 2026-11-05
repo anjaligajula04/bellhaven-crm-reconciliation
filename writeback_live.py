@@ -278,10 +278,55 @@ def main():
 
     if not execute:
         print("\nPLAN ONLY — no CRM records changed.")
+
         for city, config in FACILITIES.items():
-            print(f"{city}: {config['action']}")
-        print("\nTo perform the approved updates, run:")
-        print(".\\.venv\\Scripts\\python.exe .\\writeback_live.py --execute")
+            live = originals[city]
+
+            if config["action"] == "REPARENT":
+                if live.get("parent_id") == PARENT_ID:
+                    status = "ALREADY_COMPLETE"
+                else:
+                    status = "REPARENT"
+
+            else:
+                successor_id = live.get("chow_current_account")
+
+                if successor_id:
+                    successor = account_map.get(successor_id)
+
+                    if not successor:
+                        raise RuntimeError(
+                            f"Successor account missing for {city}"
+                        )
+
+                    if (
+                        successor.get("name") != config["name"]
+                        or successor.get("parent_id") != PARENT_ID
+                        or any(
+                            successor.get(field) != value
+                            for field, value in config["address"].items()
+                        )
+                    ):
+                        raise RuntimeError(
+                            f"Successor verification failed for {city}"
+                        )
+
+                    status = "ALREADY_COMPLETE"
+
+                else:
+                    existing = find_existing_new_account(
+                        all_accounts, config
+                    )
+
+                    status = (
+                        "LINK_EXISTING_SUCCESSOR"
+                        if existing
+                        else "CREATE_AND_LINK"
+                    )
+
+            print(f"{city}: {status}")
+
+        print("\nNo CRM records were changed.")
         return
 
     results = []
