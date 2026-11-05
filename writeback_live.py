@@ -135,7 +135,14 @@ def verify_original_account(account, config):
             f"Account name changed unexpectedly: {config['name']}"
         )
 
-    if account.get("parent_id", "") != config["parent_before"]:
+    current_parent = account.get("parent_id", "")
+
+    if config["action"] == "REPARENT":
+        if current_parent not in (config["parent_before"], PARENT_ID):
+            raise RuntimeError(
+                f"Unexpected current parent for {config['name']}"
+            )
+    elif current_parent != config["parent_before"]:
         raise RuntimeError(
             f"Unexpected current parent for {config['name']}"
         )
