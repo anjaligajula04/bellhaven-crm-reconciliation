@@ -32,6 +32,7 @@ jobs:
         env:
           CRM_API_BASE: ${{ secrets.CRM_API_BASE }}
           CRM_API_TOKEN: ${{ secrets.CRM_API_TOKEN }}
+          WEBSITE_BASE: ${{ secrets.WEBSITE_BASE }}
         run: python inspect_accounts.py
 
       - name: Run CRM matcher
