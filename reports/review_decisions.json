@@ -1,0 +1,142 @@
+{
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood": {
+    "website_name": "Bellhaven of Maplewood",
+    "crm_account_id": "001L3LGR6W69J8DYYV",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying exact facility name, physical address, phone number, and existing Bellhaven parent relationship. No CRM parent change required.",
+    "reviewed_at": "2026-11-05T01:47:15.496480+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle": {
+    "website_name": "Bellhaven of New Carlisle",
+    "crm_account_id": "001AQGPZ5G5VRES536",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, and existing Bellhaven parent relationship. No parent change required.",
+    "reviewed_at": "2026-11-05T01:55:02.385937+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster": {
+    "website_name": "Bellhaven of Wooster",
+    "crm_account_id": "001W5G121A7SMRP58M",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, phone number, and existing Bellhaven parent relationship. The CRM account already belongs to the correct parent, so no parent change is required.",
+    "reviewed_at": "2026-11-05T03:36:25.852813+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron": {
+    "website_name": "Bellhaven Terrace of Akron",
+    "crm_account_id": "0019Y4J61ZBG4R00CD",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, phone number, and existing Bellhaven Senior Living parent relationship. The CRM account already belongs to the correct parent. Although the account has lifetime revenue of $101,000 and outstanding AR of $9,000, no parent change or account deactivation is required. Existing billing history and account continuity must be preserved.",
+    "reviewed_at": "2026-11-05T03:40:42.292801+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline": {
+    "website_name": "Bellhaven of Saline",
+    "crm_account_id": "001MVVAPY6U5TVYRC4",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, phone number, and existing Bellhaven Senior Living parent relationship. The CRM account already belongs to the correct parent. No parent change is required, and there is no outstanding revenue or AR balance.",
+    "reviewed_at": "2026-11-05T03:42:17.981470+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen": {
+    "website_name": "Bellhaven of Goshen",
+    "crm_account_id": "001JQER1RMYKNRLNME",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, and existing Bellhaven Senior Living parent relationship. The website phone number is (330) 405-6040, while the CRM lists (517) 409-8156. The physical location and facility identity match, but the phone discrepancy is documented for follow-up. No parent change is required. Existing lifetime revenue of $121,000 must be preserved.",
+    "reviewed_at": "2026-11-05T03:43:47.972972+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville": {
+    "website_name": "Bellhaven of Meadville",
+    "crm_account_id": "001KC1NG7EZDEKKA3T",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, phone number, and existing Bellhaven Senior Living parent relationship. The CRM account already belongs to the correct parent. Lifetime revenue of $87,000 and outstanding AR of $1,000 must be preserved. No parent change or account deactivation is required.",
+    "reviewed_at": "2026-11-05T03:46:31.743457+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance": {
+    "website_name": "Bellhaven of Defiance",
+    "crm_account_id": "001R4PXTUD9R6FNN8V",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, and existing Bellhaven Senior Living parent relationship. The website phone number is (330) 691-2711, while the CRM lists (231) 238-4862. The physical location and facility identity match, but the phone discrepancy is documented for follow-up. No parent change is required. Lifetime revenue of $66,000 and outstanding AR of $9,500 must be preserved.",
+    "reviewed_at": "2026-11-05T03:48:17.980309+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo": {
+    "website_name": "Bellhaven Woods of Toledo",
+    "crm_account_id": "0014DHACE6WQU3RMM5",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, phone number, and existing Bellhaven Senior Living parent relationship. Minor street-address formatting differences (NW versus Northwest) do not affect the physical location match. The CRM account already belongs to the correct parent. Lifetime revenue of $54,000 must be preserved. No parent change is required.",
+    "reviewed_at": "2026-11-05T03:48:53.325682+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion": {
+    "website_name": "Bellhaven of Marion",
+    "crm_account_id": "0015L38R1Z5947ZZP7",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, and existing Bellhaven Senior Living parent relationship. The website phone number is (517) 847-7948, while the CRM lists (330) 314-3109. The physical location and facility identity match, but the phone discrepancy is documented for follow-up. No parent change is required. Lifetime revenue of $87,000 must be preserved.",
+    "reviewed_at": "2026-11-05T03:49:47.002750+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo": {
+    "website_name": "Bellhaven of Kalamazoo",
+    "crm_account_id": "001NSHWKQD0YJLPQ20",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, phone number, and existing Bellhaven Senior Living parent relationship. All matching fields are consistent, with no address conflicts or duplicate-account collisions. No parent change is required.",
+    "reviewed_at": "2026-11-05T03:50:23.460096+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona": {
+    "website_name": "Bellhaven Court of Altoona",
+    "crm_account_id": "0011D2P3CWSHMF81C8",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the exact facility name, physical address, city, state, ZIP code, phone number, and existing Bellhaven Senior Living parent relationship. All matching fields are consistent, with no address conflicts or duplicate-account collisions. Lifetime revenue of $61,000 must be preserved. No parent change is required.",
+    "reviewed_at": "2026-11-05T03:50:45.942896+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city": {
+    "website_name": "Bellhaven Rehabilitation & Nursing of Grove City",
+    "crm_account_id": "001TZCSTBZFM6K5BGN",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the facility identity using the exact physical address, city, state, ZIP code, and matching phone number. The CRM account name uses \"Rehab\" while the website uses \"Rehabilitation\"; this is a naming variation, not an identity conflict. No competing CRM candidate or address conflict was found. The account already belongs to Bellhaven Senior Living, so no parent change is required.",
+    "reviewed_at": "2026-11-05T03:51:22.734359+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge": {
+    "website_name": "Bellhaven at Sycamore Ridge",
+    "crm_account_id": "00191H7JR16471SZ34",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the facility identity using the exact physical address, city, state, and ZIP code. The website lists the facility as \"Bellhaven at Sycamore Ridge,\" while the CRM uses \"Bellhaven of Sycamore Ridge.\" This naming variation is supported by the exact location match. The website phone number is (260) 365-6510, while the CRM lists (419) 982-7764; this discrepancy is documented for follow-up. No competing CRM candidate or duplicate collision was found. The account already belongs to Bellhaven Senior Living, so no parent change is required.",
+    "reviewed_at": "2026-11-05T03:52:19.566989+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton": {
+    "website_name": "The Arbors at Bellhaven - Dayton",
+    "crm_account_id": "0010KJFP601YNTZVDA",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the facility identity using the exact physical address, city, state, and ZIP code. The website name is \"The Arbors at Bellhaven - Dayton,\" while the CRM uses \"Arbors at Bellhaven Dayton.\" This is a minor naming variation supported by the exact location match. The website phone number is (260) 254-7592, while the CRM lists (216) 659-9837; this discrepancy is documented for follow-up. No competing CRM candidate or duplicate collision was found. The account already belongs to Bellhaven Senior Living, so no parent change is required.",
+    "reviewed_at": "2026-11-05T03:52:42.930304+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland": {
+    "website_name": "Bellhaven Healthcare Centre of Ashland",
+    "crm_account_id": "001RJ0D7Z5MAZN5HX5",
+    "decision": "APPROVED",
+    "review_note": "Approved after verifying the facility identity using the exact physical address, city, state, and ZIP code. The website uses \"Bellhaven Healthcare Centre of Ashland,\" while the CRM uses \"Bellhaven Health Care Center of Ashland.\" This is a naming variation supported by the exact location match. The website phone number is (517) 314-5115, while the CRM lists (734) 319-7813; this discrepancy is documented for follow-up. No competing CRM candidate or duplicate collision was found. The account already belongs to Bellhaven Senior Living, so no parent change is required.",
+    "reviewed_at": "2026-11-05T03:53:14.463367+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin": {
+    "website_name": "Bellhaven of Tiffin",
+    "crm_account_id": "001U6RW32TY0WSXZZB",
+    "decision": "APPROVED",
+    "review_note": "Approved facility identity based on the exact facility name and matching physical address. The website phone number is (260) 589-2589, while the CRM phone number is (614) 829-9278. This discrepancy is documented for follow-up and must not be overwritten automatically. The existing CRM account has $84,000 in lifetime revenue and $12,400 in outstanding AR. Preserve the existing account and all financial history. Do not directly re-parent or deactivate it. Create a new Bellhaven account under Bellhaven Senior Living only after the API update format is verified, then link the old account using chow_current_account.",
+    "reviewed_at": "2026-11-05T13:48:33.920470+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta": {
+    "website_name": "Bellhaven of Marietta",
+    "crm_account_id": "001A34WFSUYHCRBLFT",
+    "decision": "APPROVED",
+    "review_note": "Approved facility identity based on the exact facility name and matching physical address. The website phone number is (614) 337-1967, while the CRM phone number is (419) 353-5019. This discrepancy is documented for follow-up and must not be overwritten automatically. The existing CRM account has $51,250 in lifetime revenue and $3,800 in outstanding AR. Preserve the existing account and all financial history. Do not directly re-parent or deactivate it. Create a new Bellhaven account under Bellhaven Senior Living only after the API update format is verified, then link the old account using chow_current_account.",
+    "reviewed_at": "2026-11-05T13:50:05.218800+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima": {
+    "website_name": "Bellhaven Crossings of Lima",
+    "crm_account_id": "001LGFPBJY4N9MB6KL",
+    "decision": "APPROVED",
+    "review_note": "Approved facility identity based on the exact facility name and matching physical address. The website phone number is (231) 539-3617, while the CRM phone number is (734) 872-9575. This discrepancy is documented for follow-up and must not be overwritten automatically. The existing CRM account has $47,000 in lifetime revenue and $0 outstanding AR. Approve re-parenting the existing account (001LGFPBJY4N9MB6KL) from Harborview Care Group to Bellhaven Senior Living, preserving the existing account ID and all financial history. Perform the live update only after the API request format is verified.",
+    "reviewed_at": "2026-11-05T13:51:02.969478+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-meadows-of-findlay": {
+    "website_name": "Bellhaven Meadows of Findlay",
+    "crm_account_id": "001UKEFGADQ8YCZ4YM",
+    "decision": "APPROVED",
+    "review_note": "Approved facility identity based on the exact facility name and matching physical address. The website phone number is (231) 533-2969, while the CRM phone number is (330) 975-2492. This discrepancy is documented for follow-up and must not be overwritten automatically. The existing CRM account has $22,000 in lifetime revenue and $0 outstanding AR and currently has no parent. Approve re-parenting the existing account (001UKEFGADQ8YCZ4YM) to Bellhaven Senior Living, preserving the existing account ID and all financial history. Perform the live update only after the API request format is verified.",
+    "reviewed_at": "2026-11-05T13:51:57.793535+00:00"
+  }
+}

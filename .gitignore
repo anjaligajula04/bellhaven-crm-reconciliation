@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+.DS_Store
+# Local archives and temporary files
+*.zip
+first_match.txt
+swagger_page.html
+
+# Old development backups
+matcher_before_location_fix.py
+matcher_broken_backup.py

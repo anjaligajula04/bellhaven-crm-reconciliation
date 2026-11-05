@@ -1,0 +1,59 @@
+﻿name: Daily Bellhaven Reconciliation
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape latest website facilities
+        env:
+          WEBSITE_BASE: ${{ secrets.WEBSITE_BASE }}
+        run: python scraper.py
+
+      - name: Fetch latest CRM accounts
+        env:
+          CRM_API_BASE: ${{ secrets.CRM_API_BASE }}
+          CRM_API_TOKEN: ${{ secrets.CRM_API_TOKEN }}
+        run: python inspect_accounts.py
+
+      - name: Run CRM matcher
+        env:
+          CRM_API_BASE: ${{ secrets.CRM_API_BASE }}
+          CRM_API_TOKEN: ${{ secrets.CRM_API_TOKEN }}
+          WEBSITE_BASE: ${{ secrets.WEBSITE_BASE }}
+        run: python matcher.py
+
+      - name: Run automated tests
+        run: python -m pytest -q
+
+      - name: Generate writeback dry-run
+        env:
+          CRM_API_BASE: ${{ secrets.CRM_API_BASE }}
+          CRM_API_TOKEN: ${{ secrets.CRM_API_TOKEN }}
+          WEBSITE_BASE: ${{ secrets.WEBSITE_BASE }}
+        run: python writeback_dry_run.py
+
+      - name: Save reconciliation reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: bellhaven-reconciliation-reports
+          path: reports/
+          if-no-files-found: error

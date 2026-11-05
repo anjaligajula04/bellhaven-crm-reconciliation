@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-11-05T13:53:11.619830+00:00",
+  "mode": "DRY_RUN_ONLY",
+  "crm_updates_performed": 0,
+  "facilities_evaluated": 35,
+  "action_counts": {
+    "NO_CHANGE": 16,
+    "MANUAL_REVIEW": 14,
+    "NEW_ACCOUNT_REQUIRES_VERIFIED_API": 2,
+    "REPARENT_REQUIRES_VERIFIED_API": 2,
+    "PENDING_APPROVAL": 1
+  },
+  "results": [
+    {
+      "facility": "Bellhaven of Maplewood",
+      "crm_account_id": "001L3LGR6W69J8DYYV",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of New Carlisle",
+      "crm_account_id": "001AQGPZ5G5VRES536",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Wooster",
+      "crm_account_id": "001W5G121A7SMRP58M",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven Terrace of Akron",
+      "crm_account_id": "0019Y4J61ZBG4R00CD",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Saline",
+      "crm_account_id": "001MVVAPY6U5TVYRC4",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Goshen",
+      "crm_account_id": "001JQER1RMYKNRLNME",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Meadville",
+      "crm_account_id": "001KC1NG7EZDEKKA3T",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Defiance",
+      "crm_account_id": "001R4PXTUD9R6FNN8V",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven Woods of Toledo",
+      "crm_account_id": "0014DHACE6WQU3RMM5",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Marion",
+      "crm_account_id": "0015L38R1Z5947ZZP7",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Kalamazoo",
+      "crm_account_id": "001NSHWKQD0YJLPQ20",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven Court of Altoona",
+      "crm_account_id": "0011D2P3CWSHMF81C8",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven Rehabilitation & Nursing of Grove City",
+      "crm_account_id": "001TZCSTBZFM6K5BGN",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven at Sycamore Ridge",
+      "crm_account_id": "00191H7JR16471SZ34",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "The Arbors at Bellhaven - Dayton",
+      "crm_account_id": "0010KJFP601YNTZVDA",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven Healthcare Centre of Ashland",
+      "crm_account_id": "001RJ0D7Z5MAZN5HX5",
+      "decision": "APPROVED",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "NO_CHANGE",
+      "reason": "Approved match; no parent update needed."
+    },
+    {
+      "facility": "Bellhaven of Port Clinton",
+      "crm_account_id": "001UELXDAKFRKB8932",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - MULTIPLE CRM ACCOUNTS SHARE THIS LOCATION",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven Shores of Erie",
+      "crm_account_id": "001CVBBCSDM7YHN220",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - MULTIPLE CRM ACCOUNTS SHARE THIS LOCATION",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Kettering",
+      "crm_account_id": "001B7XZAA3AFALS9GP",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - MULTIPLE CRM ACCOUNTS SHARE THIS LOCATION",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven Gardens of Monroe",
+      "crm_account_id": "001U1750VLVJAGG1S5",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - MULTIPLE CRM ACCOUNTS SHARE THIS LOCATION",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Tiffin",
+      "crm_account_id": "001U6RW32TY0WSXZZB",
+      "decision": "APPROVED",
+      "recommendation": "CREATE NEW BELLHAVEN ACCOUNT - PRESERVE OLD ACCOUNT AND FINANCIAL HISTORY; LINK OLD ACCOUNT USING CHOW_CURRENT_ACCOUNT",
+      "action": "NEW_ACCOUNT_REQUIRES_VERIFIED_API",
+      "reason": "Approved proposal. Create a new account only after verifying the API payload and required fields."
+    },
+    {
+      "facility": "Bellhaven of Marietta",
+      "crm_account_id": "001A34WFSUYHCRBLFT",
+      "decision": "APPROVED",
+      "recommendation": "CREATE NEW BELLHAVEN ACCOUNT - PRESERVE OLD ACCOUNT AND FINANCIAL HISTORY; LINK OLD ACCOUNT USING CHOW_CURRENT_ACCOUNT",
+      "action": "NEW_ACCOUNT_REQUIRES_VERIFIED_API",
+      "reason": "Approved proposal. Create a new account only after verifying the API payload and required fields."
+    },
+    {
+      "facility": "Bellhaven Crossings of Lima",
+      "crm_account_id": "001LGFPBJY4N9MB6KL",
+      "decision": "APPROVED",
+      "recommendation": "REPARENT EXISTING ACCOUNT TO BELLHAVEN SENIOR LIVING - REVIEW BILLING HISTORY BEFORE APPROVAL",
+      "action": "REPARENT_REQUIRES_VERIFIED_API",
+      "reason": "Approved parent correction. API payload must be verified before any live update."
+    },
+    {
+      "facility": "Bellhaven of Zanesville",
+      "crm_account_id": "001H1JMVZWP46D5VUF",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - VERIFY FACILITY IDENTITY BEFORE ANY PARENT OR ACCOUNT CHANGE",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Chagrin Falls",
+      "crm_account_id": "001RJU1X4NBWC1Q0G7",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - VERIFY FACILITY IDENTITY BEFORE ANY PARENT OR ACCOUNT CHANGE",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven Willow Creek",
+      "crm_account_id": "0017MN2JYAJBDS8WQZ",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - VERIFY FACILITY IDENTITY BEFORE ANY PARENT OR ACCOUNT CHANGE",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Ashtabula",
+      "crm_account_id": "",
+      "decision": "PENDING",
+      "recommendation": "NO CRM ACCOUNT SELECTED - POSSIBLY MISSING; DO NOT CHANGE ANY EXISTING CRM ACCOUNT",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Owosso",
+      "crm_account_id": "001EGU7BMJ942ZTRE6",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - MULTIPLE CRM ACCOUNTS SHARE THIS LOCATION",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Portsmouth",
+      "crm_account_id": "001CF3LDWVRGL09P4F",
+      "decision": "PENDING",
+      "recommendation": "NO PARENT CHANGE NEEDED - VERIFY FACILITY IDENTITY",
+      "action": "PENDING_APPROVAL",
+      "reason": "Match has not been approved."
+    },
+    {
+      "facility": "Bellhaven of Batavia",
+      "crm_account_id": "",
+      "decision": "PENDING",
+      "recommendation": "NO CRM ACCOUNT SELECTED - POSSIBLY MISSING; DO NOT CHANGE ANY EXISTING CRM ACCOUNT",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven at Union Square",
+      "crm_account_id": "",
+      "decision": "PENDING",
+      "recommendation": "NO CRM ACCOUNT SELECTED - POSSIBLY MISSING; DO NOT CHANGE ANY EXISTING CRM ACCOUNT",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Carlisle",
+      "crm_account_id": "",
+      "decision": "PENDING",
+      "recommendation": "NO CRM ACCOUNT SELECTED - POSSIBLY MISSING; DO NOT CHANGE ANY EXISTING CRM ACCOUNT",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Amberly Manor",
+      "crm_account_id": "",
+      "decision": "PENDING",
+      "recommendation": "NO CRM ACCOUNT SELECTED - POSSIBLY MISSING; DO NOT CHANGE ANY EXISTING CRM ACCOUNT",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven of Chesterton",
+      "crm_account_id": "0013NUZQHQUEZ8DXEG",
+      "decision": "PENDING",
+      "recommendation": "MANUAL REVIEW - VERIFY FACILITY IDENTITY BEFORE ANY PARENT OR ACCOUNT CHANGE",
+      "action": "MANUAL_REVIEW",
+      "reason": "Identity, location, or duplicate-account issue requires manual investigation."
+    },
+    {
+      "facility": "Bellhaven Meadows of Findlay",
+      "crm_account_id": "001UKEFGADQ8YCZ4YM",
+      "decision": "APPROVED",
+      "recommendation": "REPARENT EXISTING ACCOUNT TO BELLHAVEN SENIOR LIVING - REVIEW BILLING HISTORY BEFORE APPROVAL",
+      "action": "REPARENT_REQUIRES_VERIFIED_API",
+      "reason": "Approved parent correction. API payload must be verified before any live update."
+    }
+  ]
+}
