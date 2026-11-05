@@ -1,0 +1,34 @@
+{
+  "mode": "LIVE_WRITEBACK",
+  "parent_id": "0015QAPLGS3FVYEEEM",
+  "facilities_processed": 4,
+  "verified": true,
+  "results": [
+    {
+      "facility": "Tiffin",
+      "action": "NEW_ACCOUNT_CREATED",
+      "old_account_id": "001U6RW32TY0WSXZZB",
+      "new_account_id": "001109547679A6B15E",
+      "verified": true
+    },
+    {
+      "facility": "Marietta",
+      "action": "NEW_ACCOUNT_CREATED",
+      "old_account_id": "001A34WFSUYHCRBLFT",
+      "new_account_id": "00154631E19594A8E1",
+      "verified": true
+    },
+    {
+      "facility": "Lima",
+      "action": "REPARENTED",
+      "account_id": "001LGFPBJY4N9MB6KL",
+      "verified": true
+    },
+    {
+      "facility": "Findlay",
+      "action": "REPARENTED",
+      "account_id": "001UKEFGADQ8YCZ4YM",
+      "verified": true
+    }
+  ]
+}
