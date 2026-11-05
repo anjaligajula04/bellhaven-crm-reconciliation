@@ -138,5 +138,12 @@
     "decision": "APPROVED",
     "review_note": "Approved facility identity based on the exact facility name and matching physical address. The website phone number is (231) 533-2969, while the CRM phone number is (330) 975-2492. This discrepancy is documented for follow-up and must not be overwritten automatically. The existing CRM account has $22,000 in lifetime revenue and $0 outstanding AR and currently has no parent. Approve re-parenting the existing account (001UKEFGADQ8YCZ4YM) to Bellhaven Senior Living, preserving the existing account ID and all financial history. Perform the live update only after the API request format is verified.",
     "reviewed_at": "2026-11-05T13:51:57.793535+00:00"
+  },
+  "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton": {
+    "website_name": "Bellhaven of Chesterton",
+    "crm_account_id": "0013NUZQHQUEZ8DXEG",
+    "decision": "APPROVED",
+    "review_note": "Approved as a facility match. Website and CRM records have the same physical address and exact phone number. The CRM account is already assigned to Bellhaven Senior Living. The facility name differs, so retain the existing CRM account name pending confirmation of any official name change. No parent, phone, or financial data changes are required.",
+    "reviewed_at": "2026-11-05T16:11:25.168555+00:00"
   }
 }

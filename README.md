@@ -62,7 +62,7 @@ Launch the review application:
 
 ```bash
 
-python -m streamlit run review\_app.py
+python -m streamlit run review_app.py
 
 ```
 
@@ -82,7 +82,7 @@ Run the writeback dry run:
 
 ```bash
 
-python writeback\_dry\_run.py
+python writeback_dry_run.py
 
 ```
 
@@ -114,7 +114,7 @@ The Streamlit application displays website and CRM details, candidate scores, co
 
 
 
-Approval and rejection decisions are stored locally in `reports/review\_decisions.json`. The matcher restores saved decisions on subsequent runs.
+Approval and rejection decisions are stored locally in `reports/review_decisions.json`. The matcher restores saved decisions on subsequent runs.
 
 
 

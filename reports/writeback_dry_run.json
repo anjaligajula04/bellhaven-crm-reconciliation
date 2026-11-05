@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:53:11.619830+00:00",
+  "generated_at": "2026-11-05T16:17:55.901831+00:00",
   "mode": "DRY_RUN_ONLY",
   "crm_updates_performed": 0,
   "facilities_evaluated": 35,
@@ -278,7 +278,7 @@
     {
       "facility": "Bellhaven of Chesterton",
       "crm_account_id": "0013NUZQHQUEZ8DXEG",
-      "decision": "PENDING",
+      "decision": "APPROVED",
       "recommendation": "MANUAL REVIEW - VERIFY FACILITY IDENTITY BEFORE ANY PARENT OR ACCOUNT CHANGE",
       "action": "MANUAL_REVIEW",
       "reason": "Identity, location, or duplicate-account issue requires manual investigation."
